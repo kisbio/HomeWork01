@@ -32,5 +32,18 @@ public class HomeWork01 {
         double volume = 4*r*r*r*pi/3;
 
         System.out.println("A gömb térfogata: " + volume);
+
+
+        //Negyedik feladat:
+        //Celsius:
+        int celsius = 10;
+        //Fahrenheit:
+        int fahrenheit = 70;
+        // számolás
+        double fahrenheitben = celsius*9/5+32;
+        double celsiusban = (fahrenheit-32)*5/9;
+        // kiírás
+        System.out.println("10 celsius = " + fahrenheitben + " fahrenheit");
+        System.out.println("70 fahrenheit = " + celsiusban + " celsius");
     }
 }

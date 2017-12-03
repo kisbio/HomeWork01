@@ -49,7 +49,7 @@ public class HomeWork01 {
 
 
         // ötödik feladat
-        // A sorok közé be kell írni a \n-t
+        // A sorok közé be kell írni a \n-t hogy más sorba kerüljön
         System.out.println("************\n* Hello \t*\n* World \t*\n* in    \t*\n* a     \t*\n* frame \t*\n************");
 
     }

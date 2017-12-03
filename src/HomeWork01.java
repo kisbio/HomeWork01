@@ -45,5 +45,12 @@ public class HomeWork01 {
         //   kiírás
         System.out.println("10 celsius = " + fahrenheitben + " fahrenheit");
         System.out.println("70 fahrenheit = " + celsiusban + " celsius");
+
+
+
+        // ötödik feladat
+        // A sorok közé be kell írni a \n-t
+        System.out.println("************\n* Hello \t*\n* World \t*\n* in    \t*\n* a     \t*\n* frame \t*\n************");
+
     }
 }

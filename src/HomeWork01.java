@@ -42,7 +42,7 @@ public class HomeWork01 {
         // számolás
         double fahrenheitben = celsius*9/5+32;
         double celsiusban = (fahrenheit-32)*5/9;
-        // kiírás
+        //   kiírás
         System.out.println("10 celsius = " + fahrenheitben + " fahrenheit");
         System.out.println("70 fahrenheit = " + celsiusban + " celsius");
     }
